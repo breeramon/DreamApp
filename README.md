@@ -1,4 +1,6 @@
-# forcai
+# DreamApp
+
+Aplicativo com intuito de monitoração de sono, para saber quantas horas a pessoa dormiu e um relatório de metas batidas pelo usuário com um cálculo de porcentagem de quantas horas foram dormidas pelo usuário.
 
 A new Flutter project.
 
