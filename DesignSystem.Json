@@ -1,0 +1,130 @@
+{
+    "designSystem": {
+      "name": "Moonly Inspired",
+      "theme": {
+        "mode": "dark",
+        "primaryColor": "#A78BFA",
+        "secondaryColor": "#6D28D9",
+        "backgroundColor": "#0F0C1E",
+        "surfaceColor": "#1C1A30",
+        "highlightColor": "#FFD700",
+        "textPrimary": "#FFFFFF",
+        "textSecondary": "#B8B8D0",
+        "textTertiary": "#7F7F9B",
+        "accentColor": "#FF80AB",
+        "successColor": "#00C49A",
+        "warningColor": "#FFB347"
+      },
+      "typography": {
+        "fontFamily": "SF Pro Display, sans-serif",
+        "fontSizes": {
+          "headline": 24,
+          "title": 20,
+          "subtitle": 16,
+          "body": 14,
+          "caption": 12
+        },
+        "fontWeights": {
+          "regular": 400,
+          "medium": 500,
+          "bold": 700
+        },
+        "letterSpacing": "0.5px",
+        "lineHeight": 1.5
+      },
+      "layout": {
+        "grid": {
+          "columns": 12,
+          "gutter": 16,
+          "margin": 24
+        },
+        "spacing": {
+          "xs": 4,
+          "sm": 8,
+          "md": 16,
+          "lg": 24,
+          "xl": 32
+        },
+        "borderRadius": {
+          "default": 16,
+          "full": 100
+        },
+        "shadows": {
+          "card": "0 4px 12px rgba(0, 0, 0, 0.3)"
+        }
+      },
+      "components": {
+        "buttons": {
+          "default": {
+            "background": "#6D28D9",
+            "textColor": "#FFFFFF",
+            "borderRadius": 16,
+            "padding": "12px 20px"
+          },
+          "secondary": {
+            "background": "transparent",
+            "border": "1px solid #A78BFA",
+            "textColor": "#A78BFA"
+          }
+        },
+        "inputs": {
+          "background": "#1C1A30",
+          "textColor": "#FFFFFF",
+          "placeholderColor": "#7F7F9B",
+          "borderRadius": 12,
+          "border": "1px solid #33334D"
+        },
+        "cards": {
+          "background": "#1C1A30",
+          "borderRadius": 24,
+          "padding": "20px",
+          "shadow": "card"
+        },
+        "modals": {
+          "background": "#0F0C1E",
+          "padding": "24px",
+          "borderRadius": 32
+        },
+        "avatars": {
+          "shape": "circular",
+          "size": {
+            "small": 32,
+            "medium": 48,
+            "large": 72
+          }
+        }
+      },
+      "illustrationStyle": {
+        "style": "Digital Fantasy",
+        "lighting": "soft ambient glow",
+        "palette": "cosmic purples, mystical blues, moonlight whites",
+        "elements": [
+          "celestial bodies",
+          "abstract nature shapes",
+          "ethereal humanoid characters"
+        ]
+      },
+      "motion": {
+        "transitions": {
+          "duration": "300ms",
+          "easing": "ease-in-out"
+        },
+        "loadingAnimations": "circular progress with percentage counter",
+        "screenTransitions": "fade and slide"
+      },
+      "iconography": {
+        "style": "minimal filled",
+        "color": "#FFFFFF",
+        "activeColor": "#A78BFA"
+      },
+      "misc": {
+        "chartStyle": "circular radial progress",
+        "calendarStyle": "dark mode moon phase with icon overlays",
+        "feedback": {
+          "starRating": true,
+          "dreamInterpretation": true
+        }
+      }
+    }
+  }
+  
